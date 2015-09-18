@@ -209,7 +209,7 @@ static NSTimeInterval const RWTTutorialViewControllerNavigationFadeAnimationDura
 static NSTimeInterval const fadetime = 1.7;
 ```
 
-Properties should be camel-case with the leading word being lowercase. Use auto-synthesis for properties rather than manual @synthesize statements unless you have good reason.
+Properties should be camel-case with the leading word being lowercase. Use auto-synthesis for properties rather than manual synthesize statements unless you have good reason.
 
 **Preferred:**
 
